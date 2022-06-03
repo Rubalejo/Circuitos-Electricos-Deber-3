@@ -7,7 +7,7 @@
 
 **Ingeniero:** Alulema Flores Darwin Omar
 
-**Objetivos Específicos:
+**Objetivos Específicos:**
 
 *Describir las diferentes aplicaciones básicas de circuitos en paralelos y se pondrá en practica el conocimiento adquirido acerca de los circuitos en paralelo y amperímetros básicos.
 
@@ -131,6 +131,8 @@
 ![image](https://user-images.githubusercontent.com/105680588/171803665-2df7e0cb-6e40-41a7-9129-616aa707d6f0.png)
 
 **Video**
+
+https://www.youtube.com/watch?v=eKSpj1sO-Ek
 
 **Conclusiónes**
 
